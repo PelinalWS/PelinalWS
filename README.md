@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PelinalWS
 - 👀 I’m interested in games, modding, design.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java, C, Python and JavaScript.
 - 📫 How to reach me : Discord: Pelinal#0539
 
 <!---
